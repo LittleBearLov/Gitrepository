@@ -7,7 +7,7 @@ from remove_bg import remove_bg
 
 from threading import Thread
 
-IMGPATH = 'C:\\Gitrepository\\image'
+IMGPATH = 'C:\Gitrepository\image'
 
 class GUI(object):
 
